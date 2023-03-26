@@ -4,4 +4,5 @@
 ------------
 ***
 ### 3주차 git   
-### 이미지
+### 이미지   
+![Alt text](/Users/cndgjs/projects/2023_OSS/img/kau.png)
