@@ -27,11 +27,11 @@
 #!/bin/bash
 echo "----------"
 echo "name : "
-echo "이충헌"
+echo ""
 echo ""
 echo "----------"
 echo "student id :"
-echo "2020125052"
+echo ""
 echo "----------"
 echo ""
 echo "file path :"
