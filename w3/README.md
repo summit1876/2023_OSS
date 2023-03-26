@@ -35,7 +35,8 @@ echo "2020125052"
 echo "----------"
 echo ""
 echo "file path :"
-echo "/home/kau2/k/w2_homework.txt" echo ""
+echo "/home/kau2/k/w2_homework.txt"
+echo ""
 echo "----------"
 echo "line number :"
 echo "9"
@@ -58,4 +59,10 @@ echo "Good Luck!"
 ***
 - 빨강
   - 녹색
-    - 파랑
+    - 파랑   
+### 강조   
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
