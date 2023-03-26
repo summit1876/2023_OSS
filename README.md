@@ -5,4 +5,4 @@
 ***
 ### 3주차 git   
 ### 이미지   
-![Alt text](/Users/cndgjs/projects/2023_OSS/img/kau.png)
+![kau](https://user-images.githubusercontent.com/76834079/227757953-9818201a-4677-43f3-a8fa-841e634780fa.png)
